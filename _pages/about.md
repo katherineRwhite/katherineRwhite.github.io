@@ -5,10 +5,9 @@ permalink: /
 subtitle: PhD Candidate | School of Population and Public Health, University of British Columbia
 profile:
   align: right
-  image:
+  image: KatherineWhite_photo.jpeg
   image_circular: false
   more_info: >
-    <p>Vancouver, BC</p>
     <p>katherine.r.white@ubc.ca</p>
 selected_papers: true
 social: true
