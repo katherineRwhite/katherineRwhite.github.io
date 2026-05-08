@@ -44,21 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-a-post-with-plotly-js",
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -426,15 +412,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-new-paper-published-in-transportation-research-part-d-transport-and-environment-methodological-advancements-to-estimate-the-climate-impacts-of-household-travel-in-vancouver-with-alexander-bigazzi-elmira-berjisian-and-lawrence-frank-read-the-paper-here",
+            },},{id: "news-new-paper-published-in-transportation-research-part-d-transport-and-environment-methodological-advancements-to-estimate-the-climate-impacts-of-household-travel-in-vancouver-with-alexander-bigazzi-elmira-berjisian-and-lawrence-frank-read-the-paper-here",
           title: 'New paper published in Transportation Research Part D: Transport and Environment! “Methodological advancements...',
           description: "",
           section: "News",},{id: "projects-project-1",
