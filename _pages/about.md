@@ -21,12 +21,7 @@ British Columbia, where I previously completed my MSc in Occupational and Enviro
 Hygiene.
 
 My research examines the health impacts of extreme heat, with a focus on health equity
-and the lived experiences of older adults. I use interdisciplinary mixed-methods
-approaches that combine continuous indoor temperature monitoring with qualitative methods
-— including interviews and weather journals — to understand how housing conditions,
-neighbourhood factors, and socioeconomic circumstances shape individual heat exposure.
-
-My current work includes the [Sensing Heat](projects/sensing_heat) project, a
+and the lived experiences of older adults. My current work includes the [Sensing Heat](projects/sensing_heat) project, a
 community-based study of indoor heat exposure among older adults in Vancouver, conducted
 in partnership with a seniors' community organization. I collaborate with public health
 authorities and municipal partners to ensure my research translates into actionable
