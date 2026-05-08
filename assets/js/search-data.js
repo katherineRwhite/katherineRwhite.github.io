@@ -441,12 +441,10 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-announcement-bigazzi-2026",
-          title: 'Announcement_bigazzi_2026',
+          section: "News",},{id: "news-new-paper-published-in-transportation-research-part-d-transport-and-environment-methodological-advancements-to-estimate-the-climate-impacts-of-household-travel-in-vancouver-with-alexander-bigazzi-elmira-berjisian-and-lawrence-frank-read-the-paper-here",
+          title: 'New paper published in Transportation Research Part D: Transport and Environment! “Methodological advancements...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_bigazzi_2026/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
