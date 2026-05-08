@@ -441,11 +441,11 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-new-paper-transportation-research-part-d-transport-and-environment",
-          title: 'New paper transportation research part d: transport and environment',
+          section: "News",},{id: "news-announcement-bigazzi-2026",
+          title: 'Announcement_bigazzi_2026',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/New%20paper%20Transportation%20Research%20Part%20D:%20Transport%20and%20Environment/";
+              window.location.href = "/news/announcement_bigazzi_2026/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
