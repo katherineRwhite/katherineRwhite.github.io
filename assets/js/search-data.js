@@ -398,7 +398,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-new-paper-published-in-transportation-research-part-d-transport-and-environment-methodological-advancements-to-estimate-the-climate-impacts-of-household-travel-in-vancouver-with-alexander-bigazzi-elmira-berjisian-and-lawrence-frank-read-the-paper-here",
+            },},{id: "news-presented-at-the-voices-for-health-equity-conference-sensing-heat-understanding-inequitable-indoor-heat-exposures-among-older-adults-in-vancouver-watch-the-recording",
+          title: 'Presented at the Voices for Health Equity Conference — “Sensing Heat: Understanding inequitable...',
+          description: "",
+          section: "News",},{id: "news-new-paper-published-in-transportation-research-part-d-transport-and-environment-methodological-advancements-to-estimate-the-climate-impacts-of-household-travel-in-vancouver-with-alexander-bigazzi-elmira-berjisian-and-lawrence-frank-read-the-paper-here",
           title: 'New paper published in Transportation Research Part D: Transport and Environment! “Methodological advancements...',
           description: "",
           section: "News",},{id: "projects-sensing-heat",
