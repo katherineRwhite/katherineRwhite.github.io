@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Research projects at the intersection of environmental health, housing equity, and climate change.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
