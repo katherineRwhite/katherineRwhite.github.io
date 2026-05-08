@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Research projects at the intersection of environmental health, housing equity, and climate change.
 nav: true
 nav_order: 3
 display_categories: [current, past]
