@@ -2,7 +2,7 @@
 layout: page
 title: Sensing Heat
 description: Indoor heat exposure and older adults in Vancouver
-img: 
+img: assets/img/sensing_heat.jpg
 importance: 1
 category: current
 ---
