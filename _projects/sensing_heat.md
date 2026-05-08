@@ -29,6 +29,15 @@ individual heat exposure.
 - Vancouver Coastal Health
 - City of Vancouver
 
+## Presentations
+
+**Voices for Health Equity Conference** — Sensing Heat: Understanding inequitable
+  indoor heat exposures among older adults in Vancouver
+  [[Watch Recording]](https://www.youtube.com/playlist?list=PL1BK6CkzGAHAbZsix7MYrGp85m86yQzvi)
+
+**Friesen Conference, SFU, 2026** — Climate Justice Approaches to Urban Heat and Aging
+  [[Event Page]](https://www.sfu.ca/grc/events/friesen/2026.html)
+
 ## Outputs
 
 - Paper in preparation
