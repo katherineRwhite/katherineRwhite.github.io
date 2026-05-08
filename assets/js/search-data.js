@@ -401,12 +401,7 @@ ninja.data = [{
             },},{id: "news-new-paper-published-in-transportation-research-part-d-transport-and-environment-methodological-advancements-to-estimate-the-climate-impacts-of-household-travel-in-vancouver-with-alexander-bigazzi-elmira-berjisian-and-lawrence-frank-read-the-paper-here",
           title: 'New paper published in Transportation Research Part D: Transport and Environment! “Methodological advancements...',
           description: "",
-          section: "News",},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
+          section: "News",},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
           section: "Projects",handler: () => {
