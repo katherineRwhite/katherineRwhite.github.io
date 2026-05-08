@@ -29,6 +29,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a PhD candidate at the School of Population and Public Health at the University of British Columbia, where I previously completed my 
-MSc in Occupational and Environmental Hygiene. 
-My work examines the impacts of extreme heat on human health, with a focus on issues of health equity. 
+I'm a PhD candidate at the School of Population and Public Health at the University of British Columbia, where I previously completed my MSc in Occupational and Environmental Hygiene. 
+My work examines the impacts of extreme heat on human health, with a focus on issues of health equity.
