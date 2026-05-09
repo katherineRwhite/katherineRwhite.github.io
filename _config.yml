@@ -267,7 +267,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [White]
-  first_name: [Katherine]
+  first_name: [Katherine, Katherine R]
   scholar_userid: z4bC0V0AAAAJ
   cache_path: /tmp/scholar_cache
   
