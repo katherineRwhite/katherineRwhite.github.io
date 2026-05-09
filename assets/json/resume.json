@@ -28,7 +28,7 @@
       "url": "https://www.ubc.ca",
       "area": "Environmental Health",
       "studyType": "PhD",
-      "startDate": "2023",
+      "startDate": "2021",
       "endDate": "Present",
       "description": "School of Population and Public Health"
     },
@@ -38,17 +38,15 @@
       "url": "https://www.ubc.ca",
       "area": "Occupational and Environmental Hygiene",
       "studyType": "MSc",
-      "startDate": "2021",
-      "endDate": "2023"
+      "endDate": "2021"
     },
     {
       "institution": "University of British Columbia",
       "location": "Vancouver, BC",
       "url": "https://www.ubc.ca",
-      "area": "Add your undergraduate degree here",
+      "area": "Psychology",
       "studyType": "BSc",
-      "startDate": "XXXX",
-      "endDate": "XXXX"
+      "endDate": "2011"
     }
   ],
   "work": [
