@@ -68,7 +68,6 @@ individual heat exposure.
 
 - Public Scholars Initiative, University of British Columbia
 
-## Contact
-
-Interested in this work or want to collaborate? Get in touch at
-[katherine.r.white@ubc.ca](mailto:katherine.r.white@ubc.ca)
+<div style="border:1.5px solid #b509ac;border-radius:8px;padding:1rem 1.25rem;margin-top:2.5rem;color:#4a5568;font-size:0.9rem;">
+Interested in this work or want to collaborate? Get in touch at <a href="mailto:katherine.r.white@ubc.ca">katherine.r.white@ubc.ca</a>
+</div>
