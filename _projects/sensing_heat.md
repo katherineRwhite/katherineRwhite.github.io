@@ -24,15 +24,14 @@ individual heat exposure.
 - Vancouver Coastal Health
 - City of Vancouver
 
-## Key Findings
 
-<div style="background: #FBEAF0; border-left: 4px solid #D4537E; border-radius: 0 8px 8px 0; padding: 1.25rem 1.5rem; margin: 1.5rem 0;">
-  <p style="font-weight: 600; color: #4B1528; margin: 0 0 0.75rem; font-size: 1rem;">🔍 Key Findings</p>
-  <ul style="margin: 0; padding-left: 1.25rem; color: #72243E; line-height: 1.6;">
-    <li style="margin-bottom: 0.5rem;">Same-day indoor temperatures differed between participants by as much as <strong>10°C</strong> despite shared outdoor weather conditions</li>
-    <li style="margin-bottom: 0.5rem;"><strong>10 of 17 participants</strong> reported very hot indoor conditions on at least one journal day, ranging from 2–80% of days across individuals</li>
+<div style="background: var(--teal-color-light); border-left: 4px solid var(--teal-color); border-radius: 0 8px 8px 0; padding: 1.25rem 1.5rem; margin: 1.5rem 0;">
+  <p style="font-weight: 600; color: var(--teal-color); margin: 0 0 0.75rem; font-size: 1rem;">🔍 Key Findings</p>
+  <ul style="margin: 0; padding-left: 1.25rem; color: var(--text-muted); line-height: 1.6;">
+    <li style="margin-bottom: 0.5rem;">Same-day indoor temperatures differed between participants by as much as <strong style="color: var(--text-dark);">10°C</strong> despite shared outdoor weather conditions</li>
+    <li style="margin-bottom: 0.5rem;"><strong style="color: var(--pink-color);">10 of 17 participants</strong> reported very hot indoor conditions on at least one journal day, ranging from 2–80% of days across individuals</li>
     <li style="margin-bottom: 0.5rem;">Structural factors — building features, landlord dynamics, and neighbourhood characteristics — shaped indoor temperatures in ways objective measurement alone could not capture</li>
-    <li>Access to real-time temperature data supported participants in making <strong>informed decisions</strong> about cooling strategies</li>
+    <li>Access to real-time temperature data supported participants in making <strong style="color: var(--text-dark);">informed decisions</strong> about cooling strategies</li>
   </ul>
 </div>
 
