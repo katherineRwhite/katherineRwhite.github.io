@@ -33,7 +33,7 @@ individual heat exposure.
 <ul style="margin:0;padding-left:1.25rem;color:#4a5568;line-height:1.6;">
 <li style="margin-bottom:0.5rem;">Same-day indoor temperatures differed between participants by as much as <strong style="color:#1a202c;">10°C</strong> despite shared outdoor weather conditions</li>
 <li style="margin-bottom:0.5rem;"><strong style="color:#1a202c;">10 of 17 participants</strong> reported very hot indoor conditions on at least one journal day, ranging from 2–80% of days across individuals</li>
-<li style="margin-bottom:0.5rem;">Structural factors — building features, landlord dynamics, and neighbourhood characteristics — shaped indoor temperatures in ways objective measurement alone could not capture</li>
+<li style="margin-bottom:0.5rem;">Structural factors, including <strong style="color:#1a202c;">building features, landlord dynamics, and neighbourhood characteristics</strong> shaped indoor temperatures in ways objective measurement alone could not capture</li>
 <li>Access to real-time temperature data supported participants in making <strong style="color:#1a202c;">informed decisions</strong> about cooling strategies</li>
 </ul>
 </div>
@@ -50,14 +50,14 @@ individual heat exposure.
 
 ## Outputs
 
-- **Paper in preparation** — forthcoming
-- **Community toolkit** — forthcoming
+**Paper in preparation** — forthcoming
+**Community toolkit** — forthcoming
 
 
 ## Team
 
-- **Katherine White** — PhD Candidate, School of Population and Public Health, UBC
-- **Rachel Stern** — PhD Candidate, Department of Geography, UBC
+**Katherine White** — PhD Candidate, School of Population and Public Health, UBC
+**Rachel Stern** — PhD Candidate, Department of Geography, UBC
 
 
 ## Funding
