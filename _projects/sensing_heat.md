@@ -51,12 +51,14 @@ individual heat exposure.
 ## Outputs
 
 **Paper in preparation** — forthcoming
+
 **Community toolkit** — forthcoming
 
 
 ## Team
 
 **Katherine White** — PhD Candidate, School of Population and Public Health, UBC
+
 **Rachel Stern** — PhD Candidate, Department of Geography, UBC
 
 
