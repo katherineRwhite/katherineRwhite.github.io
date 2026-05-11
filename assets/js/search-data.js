@@ -409,7 +409,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-sensing-heat",
           title: 'Sensing Heat',
-          description: "Indoor heat exposure and older adults in Vancouver",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/sensing_heat/";
             },},{
