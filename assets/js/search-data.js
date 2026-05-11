@@ -398,11 +398,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-presented-at-the-friesen-conference-at-sfu-climate-justice-approaches-to-urban-heat-and-aging-event-page",
-          title: 'Presented at the Friesen Conference at SFU — “Climate Justice Approaches to Urban...',
-          description: "",
-          section: "News",},{id: "news-presented-at-the-voices-for-health-equity-conference-sensing-heat-understanding-inequitable-indoor-heat-exposures-among-older-adults-in-vancouver-watch-the-recording",
+            },},{id: "news-presented-at-the-voices-for-health-equity-conference-sensing-heat-understanding-inequitable-indoor-heat-exposures-among-older-adults-in-vancouver-watch-the-recording",
           title: 'Presented at the Voices for Health Equity Conference — “Sensing Heat: Understanding inequitable...',
+          description: "",
+          section: "News",},{id: "news-presented-at-the-sfu-friesen-conference-climate-change-in-an-aging-world-panel-climate-justice-approaches-to-urban-heat-and-aging-event-page",
+          title: 'Presented at the SFU Friesen Conference - Climate Change in an Aging World...',
           description: "",
           section: "News",},{id: "news-new-paper-published-in-transportation-research-part-d-transport-and-environment-methodological-advancements-to-estimate-the-climate-impacts-of-household-travel-in-vancouver-with-alexander-bigazzi-elmira-berjisian-and-lawrence-frank-read-the-paper-here",
           title: 'New paper published in Transportation Research Part D: Transport and Environment! “Methodological advancements...',
