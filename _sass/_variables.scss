@@ -38,6 +38,17 @@ $black-color: #000000 !default;
 $code-bg-color-light: rgba($teal-color, 0.05);
 $code-bg-color-dark: #2c3237 !default;
 
+// CSS custom properties for use in markdown/HTML
+:root {
+  --teal-color: #{$teal-color};
+  --teal-color-mid: #{$teal-color-mid};
+  --teal-color-light: #{$teal-color-light};
+  --pink-color: #{$pink-color};
+  --pink-color-light: #{$pink-color-light};
+  --text-muted: #4a5568;
+  --text-dark: #1a202c;
+}
+
 // Font awesome location
 $fa-font-path: "../webfonts";
 
