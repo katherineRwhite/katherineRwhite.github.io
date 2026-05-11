@@ -6,6 +6,8 @@ img: assets/img/sensing_heat.jpg
 importance: 1
 category: current
 ---
+<!--more-->
+
 ## Overview
 The Sensing Heat project is an interdisciplinary community-based study examining
 inequitable indoor heat exposure among older adults in Vancouver. Using a
