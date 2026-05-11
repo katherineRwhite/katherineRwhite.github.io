@@ -19,28 +19,18 @@ individual heat exposure.
 
 ## Methods
 
-<div style="border-left:3px solid #b509ac;padding-left:12px;">
-<ul style="margin:0;padding-left:1.25rem;color:#4a5568;line-height:1.6;">
-<li style="margin-bottom:0.5rem;">Continuous indoor temperature sensors installed in 17 older adults' homes</li>
-<li style="margin-bottom:0.5rem;">July–September 2025</li>
-<li>Daily weather journals and in-depth interviews</li>
-</ul>
-</div>
+- Continuous indoor temperature sensors installed in 17 older adults' homes
+- July–September 2025
+- Daily weather journals and in-depth interviews
 
 ## Partners
 
-<div style="border-left:3px solid #b509ac;padding-left:12px;">
-<ul style="margin:0;padding-left:1.25rem;color:#4a5568;line-height:1.6;">
-<li style="margin-bottom:0.5rem;">South Vancouver Seniors Network</li>
-<li style="margin-bottom:0.5rem;">Vancouver Coastal Health</li>
-<li>City of Vancouver</li>
-</ul>
-</div>
-
-## Key Findings
+- South Vancouver Seniors Network
+- Vancouver Coastal Health
+- City of Vancouver
 
 <div style="background:#f9e5f9;border-left:4px solid #b509ac;border-radius:0 8px 8px 0;padding:1.25rem 1.5rem;margin:1.5rem 0;">
-<p style="font-weight:600;color:#b509ac;margin:0 0 0.75rem;font-size:1rem;">🔍 Key Findings</p>
+<h2 style="color:#b509ac;font-size:1.25rem;margin:0 0 0.75rem;">Key Findings</h2>
 <ul style="margin:0;padding-left:1.25rem;color:#4a5568;line-height:1.6;">
 <li style="margin-bottom:0.5rem;">Same-day indoor temperatures differed between participants by as much as <strong style="color:#1a202c;">10°C</strong> despite shared outdoor weather conditions</li>
 <li style="margin-bottom:0.5rem;"><strong style="color:#b509ac;">10 of 17 participants</strong> reported very hot indoor conditions on at least one journal day, ranging from 2–80% of days across individuals</li>
@@ -51,47 +41,27 @@ individual heat exposure.
 
 ## Presentations
 
-<div style="border-left:3px solid #b509ac;padding-left:12px;">
-
 **Voices for Health Equity Conference** — Sensing Heat: Understanding inequitable indoor heat exposures among older adults in Vancouver
 [[Watch Recording]](https://www.youtube.com/playlist?list=PL1BK6CkzGAHAbZsix7MYrGp85m86yQzvi)
 
 **Friesen Conference, SFU, 2026** — Climate Justice Approaches to Urban Heat and Aging
 [[Watch Recording]](https://www.sfu.ca/grc/events/friesen/2026.html)
 
-</div>
-
 ## Outputs
 
-<div style="border-left:3px solid #b509ac;padding-left:12px;">
-
-- **Paper in preparation** — forthcoming
-- **Community toolkit** — forthcoming
-
-</div>
+**Paper in preparation** — forthcoming
+**Community toolkit** — forthcoming
 
 ## Team
 
-<div style="border-left:3px solid #b509ac;padding-left:12px;">
-
-- **Katherine White** — PhD Candidate, School of Population and Public Health, UBC
-- **Rachel Stern** — PhD Candidate, Department of Geography, UBC
-
-</div>
+**Katherine White** — PhD Candidate, School of Population and Public Health, UBC
+**Rachel Stern** — PhD Candidate, Department of Geography, UBC
 
 ## Funding
 
-<div style="border-left:3px solid #b509ac;padding-left:12px;">
-
 - Public Scholars Initiative, University of British Columbia
-
-</div>
 
 ## Contact
 
-<div style="border-left:3px solid #b509ac;padding-left:12px;">
-
 Interested in this work or want to collaborate? Get in touch at
 [katherine.r.white@ubc.ca](mailto:katherine.r.white@ubc.ca)
-
-</div>
