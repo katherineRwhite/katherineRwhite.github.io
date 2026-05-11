@@ -5,6 +5,8 @@ description: Indoor heat exposure and older adults in Vancouver
 img: assets/img/sensing_heat.jpg
 importance: 1
 category: current
+_styles: >
+  h2 { color: #b509ac; }
 ---
 
 ## Overview
