@@ -5,7 +5,6 @@ description: Indoor heat exposure and older adults in Vancouver
 img: assets/img/sensing_heat.jpg
 importance: 1
 category: current
-render_with_liquid: false
 ---
 
 ## Overview
@@ -30,7 +29,7 @@ individual heat exposure.
 - City of Vancouver
 
 <div style="background:#f9e5f9;border-left:4px solid #b509ac;border-radius:0 8px 8px 0;padding:1.25rem 1.5rem;margin:1.5rem 0;">
-<h2 style="color:#b509ac;font-size:1.25rem;margin:0 0 0.75rem;">Key Findings</h2>
+<h2 style="color:#b509ac;margin:0 0 0.75rem;">Key Findings</h2>
 <ul style="margin:0;padding-left:1.25rem;color:#4a5568;line-height:1.6;">
 <li style="margin-bottom:0.5rem;">Same-day indoor temperatures differed between participants by as much as <strong style="color:#1a202c;">10°C</strong> despite shared outdoor weather conditions</li>
 <li style="margin-bottom:0.5rem;"><strong style="color:#b509ac;">10 of 17 participants</strong> reported very hot indoor conditions on at least one journal day, ranging from 2–80% of days across individuals</li>
@@ -49,13 +48,13 @@ individual heat exposure.
 
 ## Outputs
 
-**Paper in preparation** — forthcoming
-**Community toolkit** — forthcoming
+- **Paper in preparation** — forthcoming
+- **Community toolkit** — forthcoming
 
 ## Team
 
-**Katherine White** — PhD Candidate, School of Population and Public Health, UBC
-**Rachel Stern** — PhD Candidate, Department of Geography, UBC
+- **Katherine White** — PhD Candidate, School of Population and Public Health, UBC
+- **Rachel Stern** — PhD Candidate, Department of Geography, UBC
 
 ## Funding
 
