@@ -24,6 +24,7 @@ individual heat exposure.
 - Vancouver Coastal Health
 - City of Vancouver
 
+## Key Findings
 
 <div style="background: var(--teal-color-light); border-left: 4px solid var(--teal-color); border-radius: 0 8px 8px 0; padding: 1.25rem 1.5rem; margin: 1.5rem 0;">
   <p style="font-weight: 600; color: var(--teal-color); margin: 0 0 0.75rem; font-size: 1rem;">🔍 Key Findings</p>
