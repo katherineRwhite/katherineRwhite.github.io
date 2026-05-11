@@ -1,3 +1,4 @@
+
 /*******************************************************************************
  * Variables used throughout the theme.
  * To adjust anything, simply edit the variables below and rebuild the theme.
@@ -20,21 +21,21 @@ $green-color-light: #ddffdd !default;
 $green-color-bright: #11d68b !default;
 $purple-color: #b509ac !default;
 $light-purple-color: color.adjust($purple-color, $lightness: 25%);
-$pink-color: #f92080 !default;
-$pink-color-light: #ffdddd !default;
+$pink-color: #e8479f !default;
+$pink-color-light: #fce8f3 !default;
+$teal-color: #0b6e8a !default;
+$teal-color-mid: #22b8d4 !default;
+$teal-color-light: #e0f7ff !default;
 $yellow-color: #efcc00 !default;
-
 $grey-color: #828282 !default;
 $grey-color-light: color.adjust($grey-color, $lightness: 40%);
 $grey-color-dark: #1c1c1d;
 $grey-900: #212529;
-
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
 
 // Theme colors
-
-$code-bg-color-light: rgba($purple-color, 0.05);
+$code-bg-color-light: rgba($teal-color, 0.05);
 $code-bg-color-dark: #2c3237 !default;
 
 // Font awesome location
