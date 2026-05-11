@@ -407,12 +407,7 @@ ninja.data = [{
           section: "News",},{id: "news-new-paper-published-in-transportation-research-part-d-transport-and-environment-methodological-advancements-to-estimate-the-climate-impacts-of-household-travel-in-vancouver-with-alexander-bigazzi-elmira-berjisian-and-lawrence-frank-read-the-paper-here",
           title: 'New paper published in Transportation Research Part D: Transport and Environment! “Methodological advancements...',
           description: "",
-          section: "News",},{id: "projects-sensing-heat",
-          title: 'Sensing Heat',
-          description: "Indoor heat exposure and older adults in Vancouver",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/sensing_heat/";
-            },},{
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
