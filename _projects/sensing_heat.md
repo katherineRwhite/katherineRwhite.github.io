@@ -4,6 +4,8 @@ title: Sensing Heat
 img: assets/img/sensing_heat.jpg
 importance: 1
 category: current
+_styles: >
+  h2 { margin-top: 2.5rem; }
 ---
 
 The Sensing Heat project is an interdisciplinary community-based study examining
