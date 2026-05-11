@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Sensing Heat
-description: Indoor heat exposure and older adults in Vancouver
 img: assets/img/sensing_heat.jpg
 importance: 1
 category: current
@@ -14,17 +13,20 @@ qualitative methods including interviews and weather journals to understand how
 housing conditions, neighbourhood factors, and socioeconomic circumstances shape
 individual heat exposure.
 
+
 ## Methods
 
 - Continuous indoor temperature sensors installed in 17 older adults' homes
 - July–September 2025
 - Daily weather journals and in-depth interviews
 
+
 ## Partners
 
 - South Vancouver Seniors Network
 - Vancouver Coastal Health
 - City of Vancouver
+  
 
 <div style="background:#f9e5f9;border-left:4px solid #b509ac;border-radius:0 8px 8px 0;padding:1.25rem 1.5rem;margin:1.5rem 0;">
 <h2 style="color:#b509ac;margin:0 0 0.75rem;">Key Findings</h2>
@@ -36,6 +38,7 @@ individual heat exposure.
 </ul>
 </div>
 
+
 ## Presentations
 
 **Voices for Health Equity Conference** — Sensing Heat: Understanding inequitable indoor heat exposures among older adults in Vancouver
@@ -44,15 +47,18 @@ individual heat exposure.
 **Friesen Conference, SFU, 2026** — Climate Justice Approaches to Urban Heat and Aging
 [[Watch Recording]](https://www.sfu.ca/grc/events/friesen/2026.html)
 
+
 ## Outputs
 
 - **Paper in preparation** — forthcoming
 - **Community toolkit** — forthcoming
 
+
 ## Team
 
 - **Katherine White** — PhD Candidate, School of Population and Public Health, UBC
 - **Rachel Stern** — PhD Candidate, Department of Geography, UBC
+
 
 ## Funding
 
