@@ -31,8 +31,8 @@ individual heat exposure.
 
 ## Key Findings
 
-<div style="background:#e0f7ff;border-left:4px solid #0b6e8a;border-radius:0 8px 8px 0;padding:1.25rem 1.5rem;margin:1.5rem 0;">
-<p style="font-weight:600;color:#0b6e8a;margin:0 0 0.75rem;font-size:1rem;">🔍 Key Findings</p>
+<div style="background:#f9e5f9;border-left:4px solid #b509ac;border-radius:0 8px 8px 0;padding:1.25rem 1.5rem;margin:1.5rem 0;">
+<p style="font-weight:600;color:#b509ac;margin:0 0 0.75rem;font-size:1rem;">🔍 Key Findings</p>
 <ul style="margin:0;padding-left:1.25rem;color:#4a5568;line-height:1.6;">
 <li style="margin-bottom:0.5rem;">Same-day indoor temperatures differed between participants by as much as <strong style="color:#1a202c;">10°C</strong> despite shared outdoor weather conditions</li>
 <li style="margin-bottom:0.5rem;"><strong style="color:#b509ac;">10 of 17 participants</strong> reported very hot indoor conditions on at least one journal day, ranging from 2–80% of days across individuals</li>
