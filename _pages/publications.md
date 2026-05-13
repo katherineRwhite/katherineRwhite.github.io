@@ -14,7 +14,7 @@ _styles: >
 ## Journal Articles
 
 <div class="publications">
-{% bibliography --query @article %}
+{% bibliography --query @article[keywords!=abstract] %}
 </div>
 
 ## Book Chapters
@@ -26,7 +26,7 @@ _styles: >
 ## Conference Abstracts
 
 <div class="publications">
-{% bibliography --query @inproceedings %}
+{% bibliography --query @inproceedings[keywords=abstract] %}
 </div>
 
 ## Thesis
